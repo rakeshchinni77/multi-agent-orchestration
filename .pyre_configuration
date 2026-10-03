@@ -1,0 +1,9 @@
+{
+  "source_directories": [
+    "backend",
+    "migrations"
+  ],
+  "search_path": [
+    "backend"
+  ]
+}
